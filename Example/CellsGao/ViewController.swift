@@ -7,12 +7,16 @@
 //
 
 import UIKit
+import CellsGao
 
 class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
+        let printFunc = PrintFunc()
+        
+        printFunc.printPublic()
     }
 
     override func didReceiveMemoryWarning() {
