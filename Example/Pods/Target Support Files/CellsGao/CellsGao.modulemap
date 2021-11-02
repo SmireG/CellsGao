@@ -1,0 +1,6 @@
+framework module CellsGao {
+  umbrella header "CellsGao-umbrella.h"
+
+  export *
+  module * { export * }
+}

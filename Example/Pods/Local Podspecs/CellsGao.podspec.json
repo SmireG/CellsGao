@@ -1,0 +1,27 @@
+{
+  "name": "CellsGao",
+  "version": "0.1.0",
+  "summary": "A short description of CellsGao.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/SmierG/CellsGao",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "高圣迪": "gaoshengdi@bytedance.com"
+  },
+  "source": {
+    "git": "https://github.com/SmireG/CellsGao.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "CellsGao/Classes/**/*",
+  "resource_bundles": {
+    "CellsGao": [
+      "CellsGao/Assets/*.png"
+    ]
+  }
+}

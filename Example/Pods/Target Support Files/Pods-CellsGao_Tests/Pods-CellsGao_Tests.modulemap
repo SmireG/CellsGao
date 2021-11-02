@@ -1,0 +1,6 @@
+framework module Pods_CellsGao_Tests {
+  umbrella header "Pods-CellsGao_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

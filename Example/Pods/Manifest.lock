@@ -1,0 +1,16 @@
+PODS:
+  - CellsGao (0.1.0)
+
+DEPENDENCIES:
+  - CellsGao (from `../`)
+
+EXTERNAL SOURCES:
+  CellsGao:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  CellsGao: fe0aed9a08bd2d8c231d52cf775adaa82e0efdd6
+
+PODFILE CHECKSUM: 285271fc60c980e6823a97a463594f96aa119bc5
+
+COCOAPODS: 1.11.2
